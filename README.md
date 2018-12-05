@@ -1,7 +1,7 @@
 # Check-RBL
 ![](https://img.shields.io/cocoapods/l/AFNetworking.svg)
 
-#### Use:
+#### Modo de Uso:
 
 ```
 $ python rbl.py
